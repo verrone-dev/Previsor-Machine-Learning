@@ -7,18 +7,18 @@ Este projeto se trata da utilização de machine learning para gerar previsão d
 
 O código utiliza algumas bibliotecas do python como:
 
-streamlit
-pandas
-sklearn
+#### streamlit
+#### pandas
+#### sklearn
 
 ## Instrução de uso
 O projeto utiliza a bilioteca streamlit do python, uma biblioteca completa do python que permite rodar o codigo em uma aplicação sem a necessidade da criação de um front-end assim tranferindo do python direto para a tela do navegador.
 
 Para rodar o código devemos utilizar o seguinte comando:
 
-'''bash
+```bash
 streamlit run app.py
-'''
+```
 
 Esse comando abrira automaticamente o navegador permitindo a vizualização do previsor
 
