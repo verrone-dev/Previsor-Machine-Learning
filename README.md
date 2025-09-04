@@ -1,7 +1,7 @@
 # Previsor Machine Learning
 
 ## Descrição
-Este projeto se trata da utilização de machine learning para gerar previsão da precificação de uma pizza utilizando em base seu diâmetro, utilizano como sua base a regressão linear. 
+Este projeto se trata da utilização de machine learning para gerar previsão da precificação de uma pizza utilizando em base seu diâmetro, utilizando como sua base a regressão linear. 
 
 ### Bibliotecas utilizadas
 
